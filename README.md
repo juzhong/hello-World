@@ -1,2 +1,5 @@
 # hello-World
-Just a beginning
+
+Hi,Humans
+
+I like C++ and GitHub.
